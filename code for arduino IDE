@@ -1,4 +1,4 @@
-Code:-for this code checkout if your arduino IDE has all the libraries installed..
+Code:-To run this code checkout if your arduino IDE has all the libraries installed..
 
 
 #include <LiquidCrystal_I2C.h> 
